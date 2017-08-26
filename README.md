@@ -1,4 +1,4 @@
-# jaql
+# JAQL (Jackal)
 ArangoDB AQL Query Builder for Java 8+
 
 ```
